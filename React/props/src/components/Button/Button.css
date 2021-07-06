@@ -1,0 +1,14 @@
+.btn.Success{
+    color: black;
+    background-color: chartreuse;
+}
+
+.btn.Warning{
+    color:darkblue;
+    background-color: darkorange;
+}
+
+.btn.Error{
+    color: darkorchid;
+    background-color: red;
+}
